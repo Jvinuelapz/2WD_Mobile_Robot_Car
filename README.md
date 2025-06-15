@@ -4,10 +4,9 @@ This repository documents my work for the "CT7159: Sensors, Actuators and Contro
 
 The project demonstrates a comprehensive understanding of embedded systems, from basic hardware assembly and actuator control to advanced sensor integration, data filtering, and PID control loops.
 
-📄 [**View the Full Project Logbook (PDF)**](./2WD_Car.pdf) for detailed documentation of each task, including methodologies, challenges, and results.
+📄 [**View the Full Project Logbook (Word)**](./2WD_Car.pdf) for detailed documentation of each task, including methodologies, challenges, and results.
 
 ![Robot Car](https://i.imgur.com/your-image-placeholder.png)
-*(Placeholder: Add a photo of your completed robot car here)*
 
 ---
 
