@@ -70,6 +70,6 @@ The code for this project is organized into folders corresponding to each worksh
 
 ```
 .
-├── Workshop_3_Actuators/     # Code for motor, servo, and ultrasonic control
-├── Workshop_4_Sensors/       # Code for BMP280, MPU-6050, and custom libraries
-└── Workshop_5_PID/           # Code for PID controller implementation
+├── Workshop_3/     # Actuators: Code for motor, servo, and ultrasonic control
+├── Workshop_4/     # Sensors: Code for BMP280, MPU-6050, and custom libraries
+└── Workshop_5/     # PID: Code for PID controller implementation
