@@ -6,7 +6,7 @@ The project demonstrates a comprehensive understanding of embedded systems, from
 
 📄 [**View the Full Project Logbook (PDF)**](./2WD_Mobile_Robot_Car_Logbook.pdf) for detailed documentation of each task, including methodologies, challenges, and results.
 
-![Robot Car](https://i.imgur.com/your-image-placeholder.png)
+![Robot Car](images/2WD_Mobile_Robot_Car.jpg)
 
 ---
 
